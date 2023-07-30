@@ -1,5 +1,6 @@
 # teu-bank
 Sistema Bancário Simples - Exercício DIO
+
 Sistema bancário tem as seguintes funcionalidades:
 
 Depósito - Sem min ou max de valor estabelecido. 
